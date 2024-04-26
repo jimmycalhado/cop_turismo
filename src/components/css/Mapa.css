@@ -1,0 +1,13 @@
+.marca_map{
+  margin-top: -30px;
+}
+.mapa{
+  background: linear-gradient(#1b8fee, #017497);
+  outline: none;
+  border: none;
+  border-bottom-left-radius: 5px;
+  margin-left: 0px;
+  margin-right: 0px;
+  margin-bottom: 5px;
+  margin-top: 0px;
+}
