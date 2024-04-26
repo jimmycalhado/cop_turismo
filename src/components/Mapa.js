@@ -22,7 +22,7 @@ const containerStyle = {
 
 function Mapa() {
 
-  fetch('https://maps.googleapis.com/maps/api/js?key=AIzaSyAyFkcsCMaRsQekYlK6uxUOEbX0Jyl1c9k_HERE&callback=console.debug&libraries=maps,marker&v=beta')
+  fetch('https://maps.googleapis.com/maps/api/js?key=YourKey_HERE&callback=console.debug&libraries=maps,marker&v=beta')
 
   //const map = new google.maps.Map(document.getElementById('map'), {
     //center: {center},
